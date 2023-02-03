@@ -1,0 +1,12 @@
+#het{
+    width: 50px;
+}
+
+#sorsoltSzamok{
+    border: solid black 1px;
+    border-radius: 6px;
+    width: 100px;
+    height: 20px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
